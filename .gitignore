@@ -1,3 +1,6 @@
+#file with Openweather apiKEY constant
+lib/utilities/api_key.dart
+
 # Miscellaneous
 *.class
 *.log
